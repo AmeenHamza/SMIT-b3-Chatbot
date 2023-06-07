@@ -1,0 +1,9 @@
+Git commands for pushing code into github.
+
+1- git clone "url"
+
+2 - git add .
+
+3 - git commit -m "Some message"
+
+4 - git push
